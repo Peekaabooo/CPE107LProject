@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\New folder\trial\trial\bin\Debug\trial.exe.config
+C:\Users\User\Desktop\New folder\trial\trial\bin\Debug\trial.exe
+C:\Users\User\Desktop\New folder\trial\trial\bin\Debug\trial.pdb
+C:\Users\User\Desktop\New folder\trial\trial\obj\Debug\trial.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder\trial\trial\obj\Debug\trial.Form1.resources
+C:\Users\User\Desktop\New folder\trial\trial\obj\Debug\trial.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\trial\trial\obj\Debug\trial.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\trial\trial\obj\Debug\trial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\trial\trial\obj\Debug\trial.exe
+C:\Users\User\Desktop\New folder\trial\trial\obj\Debug\trial.pdb
+C:\Users\User\Desktop\New folder\trial\trial\obj\Debug\trial.Form2.resources
+C:\Users\YaNawMe\source\repos\trial\trial\bin\Debug\trial.exe.config
+C:\Users\YaNawMe\source\repos\trial\trial\bin\Debug\trial.exe
+C:\Users\YaNawMe\source\repos\trial\trial\bin\Debug\trial.pdb
+C:\Users\YaNawMe\source\repos\trial\trial\obj\Debug\trial.csproj.AssemblyReference.cache
+C:\Users\YaNawMe\source\repos\trial\trial\obj\Debug\trial.Form1.resources
+C:\Users\YaNawMe\source\repos\trial\trial\obj\Debug\trial.Form2.resources
+C:\Users\YaNawMe\source\repos\trial\trial\obj\Debug\trial.Properties.Resources.resources
+C:\Users\YaNawMe\source\repos\trial\trial\obj\Debug\trial.csproj.GenerateResource.cache
+C:\Users\YaNawMe\source\repos\trial\trial\obj\Debug\trial.csproj.CoreCompileInputs.cache
+C:\Users\YaNawMe\source\repos\trial\trial\obj\Debug\trial.exe
+C:\Users\YaNawMe\source\repos\trial\trial\obj\Debug\trial.pdb
